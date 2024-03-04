@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#general{
+    margin: auto;
+    margin-top: 15px;
+    padding-top: 15px;
+    height: 600px;
+    width: 600px;
+    background-color: black;
+}
+
+#caja1{
+    margin:auto;
+    /* margin-top: 20px; No funciona*/
+    width: 560px;
+    height: 150px;
+    background-color: bisque;
+}
+
+#caja2{
+    margin:auto;
+    margin-top: 20px;
+    width: 560px;
+    height: 150px;
+    background-color: ghostwhite;
+}
+
+#caja3{
+    margin:auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+    width: 250px;
+    height: 200px;
+    background-color: crimson;
+}
+
+
+#caja4{
+    margin:auto;
+    margin-top: 20px;
+    margin-right: 20px;
+    float: right;
+    width: 250px;
+    height: 200px;
+    background-color: darkmagenta;
+}
